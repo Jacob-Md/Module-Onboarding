@@ -1,6 +1,9 @@
 body {
     margin: 0;
     padding: 0;
+    display: inline;
+    font-size: 15px;
+    width: 500%;
 }
 header {
     display: flex;
@@ -17,4 +20,10 @@ background: #f7f7f5;
 .img1 {
     width: 800px;
     margin: 5px auto 20px auto;
+}
+h2 {
+    font-size: 24px;
+}
+p{
+    font-size: 15px;
 }
