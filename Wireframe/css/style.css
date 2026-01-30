@@ -30,7 +30,7 @@ p{
 .btn {
     display:inline-block;
     border-radius:4px;
-    background-color: blue;
+    background-color: rgb(53, 230, 53);
     border: none;
     text-align: center;
     font-size: 20px;
